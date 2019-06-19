@@ -16,7 +16,11 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## ScreenShot
 
-![GitHub Logo](/screenshots/1.png)
+![Laptop Screen](/screenshots/1.png)
+
+![iPad Screen](/screenshots/2.png)
+
+![Mobile Screen](/screenshots/3.png)
 
 ## Running unit tests
 
